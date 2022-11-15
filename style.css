@@ -1,0 +1,27 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .dom{
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+      
+  }
+
+  body{
+      background-color: rgb(132, 167, 198);
+      text-align: center;
+      margin-top: 50px;
+      border: 2px solid black;
+      height: 200px;
+      width: 250px;
+      margin-left: 500px;
+  }
+  #myBtn{
+      background-color: red;
+      color: white;
+  }
